@@ -1,0 +1,32 @@
+.nav
+{
+position: absolute;
+width: 2660px;
+height: 132px;
+
+background: #1F2326;}
+
+.body{
+position: absolute;
+width: 2660px;
+height: 1716px;
+left: 0px;
+top: 0px;
+
+
+border-radius: 32px;}
+
+.logo{
+  position: absolute;
+width: 48px;
+height: 40px;
+
+
+}
+
+.navbar-logo {
+  position: absolute;
+width: 79px;
+height: 40px;
+}
+
